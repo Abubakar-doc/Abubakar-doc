@@ -40,9 +40,9 @@
 ---
 
 ## 📊 GitHub Stats:
-<div>
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" width="49%" />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abubakar's Top Languages" width="49%" />
 </div>
 
 ---
