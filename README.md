@@ -42,8 +42,7 @@
 ## 📊 GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" width="49%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
