@@ -1,16 +1,18 @@
-# 💫 About Me:
+## 💫 About Me:
 <h1 align="center">Hi 👋, I'm Abubakar Nadeem</h1>
 <h3 align="center">A passionate Mobile App Developer, Portrait Photographer, and Editor.</h3>
 
 - 🔭 I’m currently working as a [Freelance Photo Editor](https://www.fiverr.com/abubakar_anjum?public_mode=true)
 - 🌱 I’m currently learning **React and React Native**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abubakar-doc?tab=repositories)
-- 📫 How to reach me: **abubakaranjum066@gmail.com**
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-nadeem-5672562b9)  
+## 📫 How to reach me: 
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 20px;">📧 <strong>abubakaranjum066@gmail.com</strong></p>
+  <a href="https://linkedin.com/in/abubakar-nadeem-5672562b9">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
@@ -53,6 +55,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" style="width: 49%; height: 300px; object-fit: cover;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abubakar's Top Languages" style="width: 49%; height: 300px; object-fit: cover;" />
 </div>
-
 
 ---
