@@ -42,7 +42,6 @@
 ## 📊 GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-doc&theme=dark&hide_border=false" alt="Abubakar's Streak Stats" width="49%" />
 </div>
 
 ---
