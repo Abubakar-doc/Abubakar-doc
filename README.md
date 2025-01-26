@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-doc" alt="abubakar-doc" /></a> </p>
 
-- 🔭 I’m currently working as Freelancer [Fiver](https://www.fiverr.com/sellers/abubakar_anjum/)
+- 🔭 I’m currently working as [Freelance Photo Editor](https://www.fiverr.com/abubakar_anjum?public_mode=true)
 
 - 🌱 I’m currently learning **React and React Native**
 
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abubakar-nadeem-5672562b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakar-nadeem-5672562b9" height="30" width="40" /></a>
-<a href="https://instagram.com/abu.bakr.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu.bakr.a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
