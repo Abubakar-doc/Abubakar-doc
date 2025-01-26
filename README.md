@@ -45,9 +45,8 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" style="width: 49%; height: 300px; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abubakar's Top Languages" style="width: 49%; height: 300px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" style="width: 49%; height: 300px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Abubakar's Top Languages" style="width: 49%; height: 300px; object-fit: cover;" />
 </div>
-
 
 ---
