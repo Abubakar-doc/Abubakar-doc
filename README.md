@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abubakar Nadeem</h1>
 <h3 align="center">A passionate Mobile App Developer, Portrait Photographer, and Editor.</h3>
 
-- 🔭 I’m currently working as a [Freelance Photo Editor](https://www.fiverr.com/abubakar_anjum?public_mode=true)
+- 🔭 I’m currently working as a **[Freelance Photo Editor](https://www.fiverr.com/abubakar_anjum?public_mode=true)**
 - 🌱 I’m currently learning **React and React Native**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abubakar-doc?tab=repositories)
 - 📫 How to reach me: **abubakaranjum066@gmail.com** or [LinkedIn](https://linkedin.com/in/abubakar-nadeem-5672562b9)
