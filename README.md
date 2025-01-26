@@ -11,7 +11,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-nadeem-5672562b9)  
-📧 **Email**: [abubakaranjum066@gmail.com](mailto:abubakaranjum066@gmail.com)
 
 ---
 
@@ -19,8 +18,7 @@
 ### 📱 **Mobile Development**:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🎨 **Design & Photography**:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
@@ -36,7 +34,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)    
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 
 ---
 
@@ -45,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Abubakar's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-doc&theme=dark&hide_border=false" alt="Abubakar's Streak Stats" width="49%" />
 </div>
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-doc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
