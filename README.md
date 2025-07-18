@@ -14,8 +14,11 @@
 ### 📱 **Mobile Development**:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/GetX-%238BC34A.svg?style=for-the-badge&logo=GetX&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/REST%20APIs-%23323330.svg?style=for-the-badge&logo=api&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Firebase%20Messaging-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Push%20Notifications-%234CAF50.svg?style=for-the-badge&logo=push&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Mapbox-%23000000.svg?style=for-the-badge&logo=Mapbox&logoColor=white" height="50" />
 </div>
 
 ### 🗃️ **Database & Backend**:
