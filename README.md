@@ -21,11 +21,28 @@
   <img src="https://img.shields.io/badge/Mapbox-%23000000.svg?style=for-the-badge&logo=Mapbox&logoColor=white" height="50" />
 </div>
 
-### 🗃️ **Database & Backend**:
+### 🗃️ **Database & Cloud Services**:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="50" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Firebase%20FCM-%23FFCB2F.svg?style=for-the-badge&logo=firebase&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Cloudinary-%233CBF90.svg?style=for-the-badge&logo=Cloudinary&logoColor=white" height="50" />
+</div>
+
+### 💻 **Programming Languages**:
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="50" />
+</div>
+
+### 🌐 **Frontend Development**:
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="50" />
 </div>
 
 ### ⚙️ **Others**:
