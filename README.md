@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="50" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/REST%20APIs-%23323330.svg?style=for-the-badge&logo=api&logoColor=white" height="50" />
 </div>
 
 ### 🎨 **Design & Photography**:
